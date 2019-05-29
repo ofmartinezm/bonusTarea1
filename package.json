@@ -1,0 +1,16 @@
+{
+  "name": "repositorio",
+  "version": "1.0.1",
+  "description": "Primera entrega curso JS",
+  "main": "principal",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "debe ejecutar el archivo principal.js"
+  },
+  "author": "oscar fernando martinez",
+  "license": "ISC"
+}
